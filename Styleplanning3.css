@@ -1,0 +1,14 @@
+.played
+{
+    text-align:center;
+    border: 1px darkblue solid;
+    font-size: large;
+    margin: 0 auto;
+    }
+
+    .displayed
+{
+    text-align:center;
+    border: 2px black groove;
+   
+    }
